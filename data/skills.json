@@ -1,0 +1,52 @@
+[
+    {
+      "name": "JavaScript",
+      "category": "Programming",
+      "description": "A programming language that enables interactive web pages."
+    },
+    {
+      "name": "Python",
+      "category": "Programming",
+      "description": "A high-level programming language for general-purpose programming."
+    },
+    {
+      "name": "Data Analysis",
+      "category": "Data Science",
+      "description": "The process of inspecting, cleansing, transforming, and modeling data."
+    },
+    {
+      "name": "Project Management",
+      "category": "Management",
+      "description": "The practice of initiating, planning, executing, controlling, and closing the work of a team."
+    },
+    {
+      "name": "Public Speaking",
+      "category": "Soft Skills",
+      "description": "The process of speaking to a group of people in a structured way."
+    },
+    {
+      "name": "Financial Analysis",
+      "category": "Finance",
+      "description": "The assessment of the viability, stability, and profitability of a business."
+    },
+    {
+      "name": "UI Design",
+      "category": "Design",
+      "description": "The process of making interfaces in software with a focus on looks or style."
+    },
+    {
+      "name": "Machine Learning",
+      "category": "Data Science",
+      "description": "The study of computer algorithms that improve automatically through experience."
+    },
+    {
+      "name": "Cloud Computing",
+      "category": "Infrastructure",
+      "description": "The delivery of computing services over the internet."
+    },
+    {
+      "name": "Blockchain",
+      "category": "Technology",
+      "description": "A system of recording information in a way that makes it difficult to change, hack, or cheat the system."
+    }
+  ]
